@@ -1,11 +1,7 @@
 # Moro, as they say here in Central Finland! 👋
 
-I'm Roni. I'm a [Full Stack developer](https://twitter.com/rolle/status/1300716606788702208) living in [Jyväskylä, Finland](https://visitjyvaskyla.fi/en). I'm the founder guy behind the scenes at [Dude](https://www.dude.fi) (a digital agency that provides well-made WordPress websites and brand identities) and a popular [air-light WordPress theme](https://github.com/digitoimistodude/air-light) among other open source projects.
+I'm Roni. I created my first website when I was ten years old and I've been in love with all things web ever since. I'm currently a [Full Stack developer](https://twitter.com/rolle/status/1300716606788702208) living in [Jyväskylä, Finland](https://visitjyvaskyla.fi/en). I'm the founder guy behind the scenes at [Dude](https://www.dude.fi) (a digital agency that provides well-made WordPress websites and brand identities) and a popular [air-light WordPress theme](https://github.com/digitoimistodude/air-light) among other open source projects.
 
 I like to tinker with all-things-web, organize local Finnish WordPress Meetups, and in general just work with WordPress based sites. From all programming languages **CSS is my strongest suit**.
 
-You can practically find me anywhere on the internet, my usersname is usually rolle (nickname) or ronilaukkarinen (full name).
-
-When I’m not in front of a screen, I like to enjoy [a good book](http://goodreads.com/rolle).
-
-For gamertags I use [Qllervo](https://www.overbuff.com/players/pc/Qllervo-2545). **Background story:** A long time ago when I played Quake I chose my real life nickname Rolle as my nick. But as it is widely used name in Sweden and Germany and always taken I decided to add Q in the end as in Quake, so the nick became RolleQ. It happened it was taken too, so I reversed it which became Qllero in spoken Finnish dialect. Also it's a name [Kullervo](https://en.wikipedia.org/wiki/Kullervo) from the ancient Finnish epic literature [Kalevala](https://en.wikipedia.org/wiki/Kalevala) with a Q instead of K which sounds the same when said in Finnish so it stuck.
+You can practically find me anywhere on the internet, my username is usually rolle (nickname) or ronilaukkarinen (full name).
