@@ -5,3 +5,5 @@ I'm Roni. I created my first website when I was ten years old and I've been in l
 I like to tinker with all-things-web, organize local Finnish WordPress Meetups, and in general just work with WordPress based sites. From all programming languages **CSS is my strongest suit**.
 
 You can practically find me anywhere on the internet, my username is usually rolle (nickname) or ronilaukkarinen (full name).
+
+[![ronilaukkarinen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronilaukkarinen&theme=radical&hide_border=1&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
