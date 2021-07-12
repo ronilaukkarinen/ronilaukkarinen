@@ -8,4 +8,4 @@ You can practically find me anywhere on the internet, my username is usually rol
 
 ⚡ Stats ⚡            |  🔥 Streak 🔥
 :-------------------------:|:-------------------------:
-![ronilaukkarinen's github stats](https://github-readme-stats.vercel.app/api?username=ronilaukkarinen&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0d1117) |  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ronilaukkarinen&theme=tokyonight_duo&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+![ronilaukkarinen's github stats](https://github-readme-stats.vercel.app/api?username=ronilaukkarinen&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=ffffff00) |  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ronilaukkarinen&theme=tokyonight_duo&hide_border=true&background=ffffff00)](https://git.io/streak-stats)
