@@ -1,4 +1,4 @@
-# Moro, as they say here in Central Finland! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Moro, as they say here in Central Finland! <img src="https://user-images.githubusercontent.com/1534150/172605845-b63b82dc-cbff-46f1-b4b0-41c7db605ce8.gif" width="30">
 
 I'm Roni. I'm active, online and available on GitHub!
 
