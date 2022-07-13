@@ -6,7 +6,7 @@
 
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronilaukkarinen&theme=dracula&hide_border=true&langs_count=8&layout=compact) [![rolle's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rolle&custom_title=Coding%20this%20week&theme=dracula&layout=compact&langs_count=8&hide_border=true)](https://wakatime.com/@rolle)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronilaukkarinen&theme=dracula&hide_border=true&langs_count=8&layout=compact" height="185px"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rolle&custom_title=Coding%20this%20week&theme=dracula&layout=compact&langs_count=8&hide_border=true" height="185px">
 
 I'm Roni. I'm active, online and available on GitHub! I'm here to help! I love open source and its endless possibilities. What can I do for you?
 
