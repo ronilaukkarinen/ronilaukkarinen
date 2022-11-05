@@ -10,7 +10,3 @@ I'm Roni. I'm active, online and available on GitHub! I'm here to help!<br>
 I love open source and its endless possibilities. What can I do for you?
 
 I created my first website when I was about ten years old and I've been in love with all things web ever since. I'm currently a [Full Stack developer](https://twitter.com/rolle/status/1300716606788702208) living in [Jyväskylä, Finland](https://visitjyvaskyla.fi/en). I'm the founder guy behind the scenes at [Dude](https://www.dude.fi) (a digital agency that provides well-made WordPress websites and brand identities) and a popular [air-light WordPress theme](https://github.com/digitoimistodude/air-light) among other open source projects.
-
----
-
-Psst, I'm on <a rel="me" href="https://mstdn.social/@rolle">Mastodon</a>.
