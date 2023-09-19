@@ -17,3 +17,10 @@ I created my first website when I was about ten years old (around 1998) and I've
 > **Path:** Front end
 > 
 > Although I do consider myself full stack dev (design → back end → servers → front end → db) my passion and top skills are in CSS, HTML and a11y.
+
+### Ways to support what I do
+
+- [Become a GitHub Sponsor](https://github.com/sponsors/ronilaukkarinen)
+- [Ko-fi](https://ko-fi.com/rolle)
+- [Buy me a coffee](https://www.buymeacoffee.com/Fd140aV)
+- [Buy my music on Bandcamp](https://streetgazer.bandcamp.com/music)
