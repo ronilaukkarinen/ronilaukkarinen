@@ -16,7 +16,7 @@ I created my first website when I was about ten years old (around 1998) and I've
 > **Main programming language:** SCSS<br>
 > **Path:** Front end
 > 
-> Although I do consider myself full stack dev (design → back end → servers → front end → db) my passion and top skills are in CSS, HTML and a11y.
+> Although I do consider myself full stack dev (design → back end → servers → front end → db) my passion and top skills are in **servers** CSS, HTML and a11y. I know it's a funny combo.
 
 ### Ways to support what I do
 
