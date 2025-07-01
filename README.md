@@ -9,7 +9,7 @@
 I'm Roni. I'm active, online and available on GitHub! I'm here to help!<br>
 I love open source and its endless possibilities. What can I do for you?
 
-I created my first website when I was about ten years old (around 1998) and I've been in love with all things web ever since. I'm a front-end developer living in [Jyväskylä, Finland](https://visitjyvaskyla.fi/en). I'm the founder guy behind the scenes at [Dude](https://www.dude.fi) (a digital agency that provides well-made WordPress websites and brand identities) and a popular [air-light WordPress theme](https://github.com/digitoimistodude/air-light) among other open source projects.
+I created my first website when I was about ten years old (around 1998) and I've been in love with all things web ever since. I'm a sysop and a Full Stack developer located in [Jyväskylä, Finland](https://visitjyvaskyla.fi/en). I'm the founder guy behind the scenes at [Dude](https://www.dude.fi) (a digital agency that provides well-made WordPress websites, WordPress optimized servers and brand identities) and a popular [air-light WordPress theme](https://github.com/digitoimistodude/air-light) among other open source projects.
 
 > **Browser:** Google Chrome Canary<br>
 > **Editor:** VSCode<br>
