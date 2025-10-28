@@ -9,7 +9,7 @@
 I'm Roni. I'm active, online and available on GitHub! I'm here to help!<br>
 I love open source and its endless possibilities. What can I do for you?
 
-I created my first website when I was about ten years old (around 1998) and I've been in love with all things web ever since. I'm a sysop and a Full Stack developer located in [Jyväskylä, Finland](https://visitjyvaskyla.fi/en). I'm the founder guy behind the scenes at [Dude](https://www.dude.fi) (a digital agency that provides well-made WordPress websites, WordPress optimized servers and brand identities) and a popular [air-light WordPress theme](https://github.com/digitoimistodude/air-light) among other open source projects.
+I created my first website when I was about ten years old (around 1998), and I've been in love with everything web-related ever since. I'm a sysop and a full stack developer based in [Jyväskylä, Finland](https://visitjyvaskyla.fi/en). I'm the founder behind [Dude](https://www.dude.fi), a digital agency that builds high-quality WordPress websites, WordPress-optimized servers, and brand identities. I'm also the creator of the popular [Air-light WordPress theme](https://github.com/digitoimistodude/air-light) and several other open source projects.
 
 > **OS**: Arch Linux, macOS, Windows 11<br>
 > **Browser:** [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)<br>
@@ -17,7 +17,7 @@ I created my first website when I was about ten years old (around 1998) and I've
 > **Top programming languages:** Shell scripting, SCSS, PHP<br>
 > **Path:** Front end
 > 
-> Although I do consider myself full stack dev (design → back end → servers → front end → db) my passion and top skills are in **servers** CSS, HTML and a11y. I know it's a funny combo.
+> Although I consider myself a full stack developer (design → back end → servers → front end → DB), my passion and strongest skills are in servers, CSS, HTML, and accessibility. I know it’s a funny combo.
 
 ### Ways to support what I do
 
