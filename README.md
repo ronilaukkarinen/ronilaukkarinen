@@ -11,7 +11,7 @@ I love open source and its endless possibilities. What can I do for you?
 
 I created my first website when I was about ten years old (around 1998), and I've been in love with everything web-related ever since. I'm a sysop and a full stack developer based in [Jyväskylä, Finland](https://visitjyvaskyla.fi/en). I'm the founder behind [Dude](https://www.dude.fi), a digital agency that builds high-quality WordPress websites, WordPress-optimized servers, and brand identities. I'm also the creator of the popular [Air-light WordPress theme](https://github.com/digitoimistodude/air-light) and several other open source projects.
 
-> **OS**: Arch Linux, macOS, Windows 11<br>
+> **OS**: Arch Linux, macOS<br>
 > **Browser:** [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)<br>
 > **Editor:** [neovim](https://github.com/neovim/neovim)<br>
 > **Top programming languages:** Shell scripting, SCSS, PHP<br>
